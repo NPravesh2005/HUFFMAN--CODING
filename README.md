@@ -1,4 +1,9 @@
 ## EXP-11 Huffman-Coding
+
+
+### DEVELOPED BY : PRAVESH N
+### REGISTER NO : 212223230154
+
 ### Aim :
 To implement Huffman coding to compress the data using Python.
 
@@ -17,12 +22,14 @@ Generate Huffman codes recursively: assign '0' for left branches and '1' for rig
 #### Step 5 :
 Display the Huffman codes for all characters in a tabular format.
 
-### DEVELOPED BY : PRAVESH N
-### REGISTER NO : 212223230154
 
 ### Program :
 
 ``` Python
+# DEVELOPED BY : PRAVESH N
+# REG NO : 212223230154
+# EXPT NO : 11
+
 # Get the input String
 input_string = "PRAVESH"
 frequency = {}
